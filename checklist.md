@@ -23,7 +23,3 @@ Some of link URLs do not appear friendly to humans or search engines - mogą by�
 
 
 
-
-## Błędy SEO:
-- ❌ Brakuje ALT tekstów przy obrazkach
-- ⚠️ Brak favicon na niektórych podstronach
